@@ -1,2 +1,98 @@
-# AI_Avengers
-#Working on Chatbot to respond to text queries pertaining to various Acts, Rules, and Regulations applicable to Mining industries
+# AI Avengers - TechNox24 Hackathon
+![20240305_004427-removebg-preview](https://github.com/saurabht358/AI_Avengers/assets/97420827/a798f77f-c296-42a9-914f-ce25dea84356)
+
+
+## Team Overview
+
+Welcome to AI Avengers! We are a diverse and dynamic team participated in the TechNox24 Hackathon. Our team brings expertise in various domains, including AI/ML development, web development, app development, blockchain, and game development. We are excited to collaborate and create innovative solutions.
+
+## Hackathon Topic
+
+**Project**: Chatbot for Mining Industry Regulations
+
+**Description**: Our project focuses on developing a chatbot capable of responding to text queries related to Acts, Rules, and Regulations applicable to the mining industry. We aim to provide a user-friendly interface for quick access to information, making compliance easier for mining professionals.
+
+## Team Members
+
+1. Mr.Piyush Ninawe - Provided AI/ML  for Chatbot
+2. Mr.Saurabh Temburne - Provided UI/UX for Chatbot
+3. Mr.Mahesh Shinde - Provided Data Management and Data Manipulation for Chatbot
+4. Mr.Pranil Bansode - Provided Testing and Data Collecting for Chatbot
+
+## Project Goals
+
+- Create an intelligent chatbot capable of understanding and responding to text queries.
+- Implement a user-friendly interface for seamless interaction.
+- Incorporate AI and ML algorithms to improve chatbot responses over time.
+- Provide information related to Acts, Rules, and Regulations in the mining industry.
+- Enhance accessibility and compliance for mining professionals.
+
+## Technologies
+
+Our team leverages a combination of technologies:
+
+- Natural Language Processing (NLP):
+      Tools/Frameworks: NLTK (Natural Language Toolkit), SpaCy, Stanford NLP
+      Platforms: Wit.ai, Dialogflow, LUIS (Language Understanding Intelligent Service)
+-Machine Learning (ML):
+      Libraries: TensorFlow, PyTorch
+      Frameworks: Rasa, Botpress
+      Platforms: Dialogflow ML, LUIS ML
+-Speech Recognition:
+      Libraries: CMU Sphinx, Google Web Speech API
+      Platforms: Wit.ai, IBM Watson Speech to Text
+-Text-to-Speech (TTS):
+      Libraries/Services: gTTS (Google Text-to-Speech), Amazon Polly
+      Platforms: IBM Watson Text to Speech
+-Knowledge Representation:
+      Ontologies: RDF, OWL
+      Graph Databases: Neo4j
+      Platforms: Microsoft Bot Framework (for QnA Maker)
+-Intent Recognition:
+      Algorithms: SVM (Support Vector Machine), Random Forest
+      Platforms: Rasa NLU, Dialogflow
+-Entity Recognition:
+      Models: SpaCy, CRF (Conditional Random Fields)
+      Platforms: Dialogflow, Rasa NLU
+-Chatbot Building Frameworks:
+      Rasa: Open-source framework with NLU and Core components.
+      Botpress: Open-source platform for building chatbots.
+      Microsoft Bot Framework: Comprehensive framework with various services.
+-Backend Development:
+      Languages: Node.js, Python, Java
+      Frameworks: Express (Node.js), Flask (Python)
+-Frontend Development:
+      Libraries/Frameworks: React.js, Angular, Vue.js
+      Websockets: Socket.IO
+-Cloud Platforms:
+      AWS (Amazon Lex): Provides services for building conversational interfaces.
+      Google Cloud (Dialogflow): Offers NLP and ML-based chatbot development.
+      Microsoft Azure (Azure Bot Service): Integrates with various channels and services.
+-Version Control:
+      Git: For tracking changes and collaborating with team members.
+-Continuous Integration/Continuous Deployment (CI/CD):
+      Jenkins, Travis CI, GitHub Actions: For automated testing and deployment.
+-Monitoring and Analytics:
+      Logging: ELK Stack (Elasticsearch, Logstash, Kibana), Splunk
+      Analytics: Google Analytics, Mixpanel
+-User Interface (UI)/User Experience (UX) Design:
+      Design Tools: Figma, Sketch
+      Prototyping: InVision, Adobe XD
+-Security:
+      Authentication: OAuth, JWT (JSON Web Tokens)
+      Encryption: SSL/TLS
+
+## Instructions
+
+To get started with our project, follow these steps:
+
+1. Clone the repository: `git clone [repository-url]`
+2. Navigate to the project directory: `cd [project-directory]`
+3. Set up the virtual environment: `python -m venv venv` (for Python projects)
+4. Activate the virtual environment: `venv\Scripts\activate` (on Windows) or `source venv/bin/activate` (on Unix-based systems)
+5. Install dependencies: `pip install -r requirements.txt` (if applicable)
+6. Run the project: [Include instructions for running the project]
+
+Feel free to reach out to any team member if you have questions or need assistance.
+
+Happy Hacking!
