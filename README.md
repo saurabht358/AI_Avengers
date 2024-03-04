@@ -31,8 +31,8 @@ Welcome to AI Avengers! We are a diverse and dynamic team participated in the Te
 Our team leverages a combination of technologies:
 
 - Natural Language Processing (NLP):
-      Tools/Frameworks: NLTK (Natural Language Toolkit), SpaCy, Stanford NLP
-      Platforms: Wit.ai, Dialogflow, LUIS (Language Understanding Intelligent Service)
+    - Tools/Frameworks: NLTK (Natural Language Toolkit), SpaCy, Stanford NLP
+    - Platforms: Wit.ai, Dialogflow, LUIS (Language Understanding Intelligent Service)
 - Machine Learning (ML):
       Libraries: TensorFlow, PyTorch
       Frameworks: Rasa, Botpress
