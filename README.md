@@ -1,9 +1,9 @@
-# AI Avengers - TechNox24 Hackathon
+# AI Avengers - TechNex24 Hackathon
 ![20240305_004427](https://github.com/saurabht358/AI_Avengers/assets/97420827/1148548c-e334-4bfb-bd91-f24f6cf5727e)
 
 ## Team Overview
 
-Welcome to AI Avengers! We are a diverse and dynamic team participated in the TechNox24 Hackathon. Our team brings expertise in various domains, including AI/ML development, web development, app development, blockchain, and game development. We are excited to collaborate and create innovative solutions.
+Welcome to AI Avengers! We are a diverse and dynamic team participated in the TechNex24 Hackathon. Our team brings expertise in various domains, including AI/ML development, web development, app development, blockchain, and game development. We are excited to collaborate and create innovative solutions.
 
 ## Hackathon Topic
 
@@ -14,7 +14,7 @@ Welcome to AI Avengers! We are a diverse and dynamic team participated in the Te
 ## Team Members
 
 1. Mr.Piyush Ninawe - Provided AI/ML  for Chatbot
-2. Mr.Saurabh Temburne - Provided UI/UX for Chatbot
+2. Mr.Saurabh Tembhurne - Provided UI/UX for Chatbot
 3. Mr.Mahesh Shinde - Provided Data Management and Data Manipulation for Chatbot
 4. Mr.Pranil Bansode - Provided Testing and Data Collecting for Chatbot
 
