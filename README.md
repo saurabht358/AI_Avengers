@@ -31,55 +31,55 @@ Welcome to AI Avengers! We are a diverse and dynamic team participated in the Te
 Our team leverages a combination of technologies:
 
 - Natural Language Processing (NLP):
-    - Tools/Frameworks: NLTK (Natural Language Toolkit), SpaCy, Stanford NLP
-    - Platforms: Wit.ai, Dialogflow, LUIS (Language Understanding Intelligent Service)
+     - Tools/Frameworks: NLTK (Natural Language Toolkit), SpaCy, Stanford NLP
+     - Platforms: Wit.ai, Dialogflow, LUIS (Language Understanding Intelligent Service)
 - Machine Learning (ML):
-      Libraries: TensorFlow, PyTorch
-      Frameworks: Rasa, Botpress
-      Platforms: Dialogflow ML, LUIS ML
+     - Libraries: TensorFlow, PyTorch
+     - Frameworks: Rasa, Botpress
+     - Platforms: Dialogflow ML, LUIS ML
 - Speech Recognition:
-      Libraries: CMU Sphinx, Google Web Speech API
-      Platforms: Wit.ai, IBM Watson Speech to Text
+     - Libraries: CMU Sphinx, Google Web Speech API
+     - Platforms: Wit.ai, IBM Watson Speech to Text
 - Text-to-Speech (TTS):
-      Libraries/Services: gTTS (Google Text-to-Speech), Amazon Polly
-      Platforms: IBM Watson Text to Speech
+     - Libraries/Services: gTTS (Google Text-to-Speech), Amazon Polly
+     - Platforms: IBM Watson Text to Speech
 - Knowledge Representation:
-      Ontologies: RDF, OWL
-      Graph Databases: Neo4j
+     - Ontologies: RDF, OWL
+     - Graph Databases: Neo4j
       Platforms: Microsoft Bot Framework (for QnA Maker)
 - Intent Recognition:
-      Algorithms: SVM (Support Vector Machine), Random Forest
-      Platforms: Rasa NLU, Dialogflow
+     - Algorithms: SVM (Support Vector Machine), Random Forest
+     - Platforms: Rasa NLU, Dialogflow
 - Entity Recognition:
-      Models: SpaCy, CRF (Conditional Random Fields)
-      Platforms: Dialogflow, Rasa NLU
+     - Models: SpaCy, CRF (Conditional Random Fields)
+     - Platforms: Dialogflow, Rasa NLU
 - Chatbot Building Frameworks:
-      Rasa: Open-source framework with NLU and Core components.
-      Botpress: Open-source platform for building chatbots.
-      Microsoft Bot Framework: Comprehensive framework with various services.
+     - Rasa: Open-source framework with NLU and Core components.
+     - Botpress: Open-source platform for building chatbots.
+     - Microsoft Bot Framework: Comprehensive framework with various services.
 - Backend Development:
-      Languages: Node.js, Python, Java
-      Frameworks: Express (Node.js), Flask (Python)
+     - Languages: Node.js, Python, Java
+     - Frameworks: Express (Node.js), Flask (Python)
 - Frontend Development:
-      Libraries/Frameworks: React.js, Angular, Vue.js
-      Websockets: Socket.IO
+     - Libraries/Frameworks: React.js, Angular, Vue.js
+     - Websockets: Socket.IO
 - Cloud Platforms:
-      AWS (Amazon Lex): Provides services for building conversational interfaces.
-      Google Cloud (Dialogflow): Offers NLP and ML-based chatbot development.
-      Microsoft Azure (Azure Bot Service): Integrates with various channels and services.
+     - AWS (Amazon Lex): Provides services for building conversational interfaces.
+     - Google Cloud (Dialogflow): Offers NLP and ML-based chatbot development.
+     - Microsoft Azure (Azure Bot Service): Integrates with various channels and services.
 - Version Control:
-      Git: For tracking changes and collaborating with team members.
+     - Git: For tracking changes and collaborating with team members.
 - Continuous Integration/Continuous Deployment (CI/CD):
-      Jenkins, Travis CI, GitHub Actions: For automated testing and deployment.
+     - Jenkins, Travis CI, GitHub Actions: For automated testing and deployment.
 - Monitoring and Analytics:
-      Logging: ELK Stack (Elasticsearch, Logstash, Kibana), Splunk
-      Analytics: Google Analytics, Mixpanel
+     - Logging: ELK Stack (Elasticsearch, Logstash, Kibana), Splunk
+     - Analytics: Google Analytics, Mixpanel
 - User Interface (UI)/User Experience (UX) Design:
-      Design Tools: Figma, Sketch
-      Prototyping: InVision, Adobe XD
+     - Design Tools: Figma, Sketch
+     - Prototyping: InVision, Adobe XD
 - Security:
-      Authentication: OAuth, JWT (JSON Web Tokens)
-      Encryption: SSL/TLS
+     - Authentication: OAuth, JWT (JSON Web Tokens)
+     - Encryption: SSL/TLS
 
 ## Instructions
 
