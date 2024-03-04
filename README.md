@@ -1,6 +1,5 @@
 # AI Avengers - TechNox24 Hackathon
-![20240305_004427-removebg-preview](https://github.com/saurabht358/AI_Avengers/assets/97420827/a798f77f-c296-42a9-914f-ce25dea84356)
-
+![20240305_004427](https://github.com/saurabht358/AI_Avengers/assets/97420827/1148548c-e334-4bfb-bd91-f24f6cf5727e)
 
 ## Team Overview
 
