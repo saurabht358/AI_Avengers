@@ -86,12 +86,65 @@ Our team leverages a combination of technologies:
 To get started with our project, follow these steps:
 
 1. Clone the repository: `git clone [repository-url]`
-2. Provided two models(Web based Model, Software based), select which you have to use..
-3. Navigate to the project directory: `cd [specific_project-directory]`
-4. Set up the virtual environment: `python -m venv venv` (for Python projects)
-5. Activate the virtual environment: `venv\Scripts\activate` (on Windows) or `source venv/bin/activate` (on Unix-based systems)
-6. Install dependencies: `pip install -r requirements.txt` (if applicable)
-7. Run the project: [Include instructions for running the project]
+2.  Navigate to the project directory: `cd [specific_project-directory]`
+ 
+ - for Web Based MinesBot:
+## Installation & Setup
+
+[Install Python] https://www.dataquest.io/blog/installing-python-on-mac/
+
+[Install pip] https://phoenixnap.com/kb/install-pip-mac
+
+If you have Python & pip installed then check their version in the terminal or command line tools
+
+
+python3 --version
+
+
+
+pip --version
+
+## Installing Flask
+          In your terminal run the requirements.txt file using this pip
+          ```
+         pip install flask transformers torch
+
+## Running ChatBot Application in Terminal
+
+
+cd into your directory
+
+python app.py
+
+
+- for software setup:
+     - Installation & Setup
+
+[Install Python] https://www.dataquest.io/blog/installing-python-on-mac/
+
+[Install pip] https://phoenixnap.com/kb/install-pip-mac
+
+If you have Python & pip installed then check their version in the terminal or command line tools
+
+python3 --version
+pip --version
+
+##install Libraries
+     - pip install PyQt5
+     - pip install pyttsx3
+     - pip install speech_recognintion
+     - pip install pyautohui
+     - pip install subprocess
+     - pip install nltk
+     - pip install openai
+     - pip install scikit-learn
+##run file:  
+     run main.py
+
+
+##Powerpoint Persentation:
+     
+
 
 Feel free to reach out to any team member if you have questions or need assistance.
 
