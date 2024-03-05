@@ -88,8 +88,8 @@ To get started with our project, follow these steps:
 1. Clone the repository: `git clone [repository-url]`
 2.  Navigate to the project directory: `cd [specific_project-directory]`
  
- - for Web Based MinesBot:
-## Installation & Setup
+ ##for Web Based MinesBot:
+- Installation & Setup
 
 [Install Python] https://www.dataquest.io/blog/installing-python-on-mac/
 
@@ -104,12 +104,12 @@ python3 --version
 
 pip --version
 
-## Installing Flask
+- Installing Flask
           In your terminal run the requirements.txt file using this pip
           ```
          pip install flask transformers torch
 
-## Running ChatBot Application in Terminal
+- Running ChatBot Application in Terminal
 
 
 cd into your directory
@@ -117,7 +117,7 @@ cd into your directory
 python app.py
 
 
-- for software setup:
+##for software setup:
      - Installation & Setup
 
 [Install Python] https://www.dataquest.io/blog/installing-python-on-mac/
@@ -143,7 +143,11 @@ pip --version
 
 
 ##Powerpoint Persentation:
-     
+    
+
+##report of Project:
+     [MinesBot report.docx](https://github.com/saurabht358/AI_Avengers/files/14490154/MinesBot.report.docx)
+
 
 
 Feel free to reach out to any team member if you have questions or need assistance.
