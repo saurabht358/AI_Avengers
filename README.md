@@ -86,11 +86,12 @@ Our team leverages a combination of technologies:
 To get started with our project, follow these steps:
 
 1. Clone the repository: `git clone [repository-url]`
-2. Navigate to the project directory: `cd [project-directory]`
-3. Set up the virtual environment: `python -m venv venv` (for Python projects)
-4. Activate the virtual environment: `venv\Scripts\activate` (on Windows) or `source venv/bin/activate` (on Unix-based systems)
-5. Install dependencies: `pip install -r requirements.txt` (if applicable)
-6. Run the project: [Include instructions for running the project]
+2. Provided two models(Web based Model, Software based), select which you have to use..
+3. Navigate to the project directory: `cd [specific_project-directory]`
+4. Set up the virtual environment: `python -m venv venv` (for Python projects)
+5. Activate the virtual environment: `venv\Scripts\activate` (on Windows) or `source venv/bin/activate` (on Unix-based systems)
+6. Install dependencies: `pip install -r requirements.txt` (if applicable)
+7. Run the project: [Include instructions for running the project]
 
 Feel free to reach out to any team member if you have questions or need assistance.
 
